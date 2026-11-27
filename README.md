@@ -5,7 +5,7 @@
 **Course:** ELEC 3 – Node.js
 **Instructor:** Carl Gustaf Patrik B. Ferrer
 
-This repository contains my outputs for the Self-Paced Learning Assignment (Set 1; Set 2 will be added after it is finished).
+This repository contains my outputs for the ELEC 3 – Node.js Self-Paced Learning Assignment.
 
 ## Activities
 
